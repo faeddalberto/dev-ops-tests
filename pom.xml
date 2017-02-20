@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>user-mgmt-ms</module>
+        <module>albe-user_mgmt-ms</module>
     </modules>
 
 </project>
